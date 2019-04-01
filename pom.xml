@@ -192,6 +192,7 @@ flexible messaging model and an intuitive client API.</description>
     <opencensus.version>0.18.0</opencensus.version>
     <zstd.version>1.3.7-3</zstd.version>
     <hbase.version>1.4.9</hbase.version>
+    <akka.version>2.5.19</akka.version>
 
     <!-- test dependencies -->
     <arquillian-cube.version>1.15.1</arquillian-cube.version>
